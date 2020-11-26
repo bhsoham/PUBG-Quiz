@@ -69,10 +69,13 @@ function play(question, answer) {
   console.log("\n--------------------------------")
 
   var highScores = [{
+    name: "Khushi (beta-tester)",
+    highScore: 10,
+  },{
     name: "Soubhagya",
     highScore: 9,
   },{
-    name: "Proma",
+    name: "Proma (beta-tester)",
     highScore: 9,
   },{
     name: "Saurav",
